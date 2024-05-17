@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo_Yating.png"
+  name             : "Yating Gu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A geographer"
+  location         : "Nanjing, Jiangsu Province"
+  employer         : "Hohai University"
   uri              : # URL
   email            : "none@example.org" 
 
