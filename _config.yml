@@ -24,11 +24,11 @@ author:
   avatar           : "Yating_photo.jpg"
   name             : "Yating Gu"
   pronouns         : # example: "she/her"  
-  bio              : "A geographer"
+  bio              : "Lecturer"
   location         : "Nanjing, Jiangsu Province"
   employer         : "Hohai University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yatinggu@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Yating_hku
 facebook:
   username               :
   app_id                 :
